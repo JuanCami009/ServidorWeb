@@ -2,18 +2,16 @@
 
 ## Juan Camilo Molina Mussen - A00399775
 
-Aquí hay una versión mejorada y reformulada en formato Markdown para tu README:  
-
 ---
 
-## 🚀 Instrucciones para ejecutar el proyecto  
+##  Instrucciones para ejecutar el proyecto  
 
 ### Prerrequisitos  
 Asegúrate de tener instalado lo siguiente antes de ejecutar la aplicación:  
 - **Visual Studio Code** .  
 - **Un navegador web**.  
 
-### 🔧 Pasos para ejecutar la aplicación  
+###  Pasos para ejecutar la aplicación  
 1. Abre **Visual Studio Code**.  
 2. Compila el código.  
 3. Ejecuta la aplicación.  
